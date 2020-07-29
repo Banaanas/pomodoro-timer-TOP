@@ -55,7 +55,7 @@
 <!-- TABLE OF CONTENTS -->
 
 ## About the Project
-Podomoro Timer achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript curriculum</a>.
+Pomodoro Timer achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript curriculum</a>.
 
 <p align="center">
   <a href="https://banaanas.github.io/pomodoro-timer-TOP/">

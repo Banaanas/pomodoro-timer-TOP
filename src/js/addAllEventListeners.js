@@ -6,7 +6,7 @@ import renderSessionMinutes from "./render-session-minutes";
 import renderBreakMinutes from "./render-break-minutes";
 import renderTimerMinutes from "./render-timer-minutes";
 import resetPomodoroObj from "./reset-pomodoro-object";
-import renderMinuteWord from "./minutes-sing-plur";
+import renderMinuteWord from "./render-minute-word";
 
 const addAllEventListeners = () => {
   // Play Button - Event Listener
