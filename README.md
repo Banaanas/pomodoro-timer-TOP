@@ -55,11 +55,11 @@
 <!-- TABLE OF CONTENTS -->
 
 ## About the Project
-Podomoro Timer achieved as part of <a href="https://www.theodinproject.com/courses/javascript/lessons/battleship">The Odin Project - JavaScript curriculum</a>.
+Podomoro Timer achieved as part of <a href="https://www.theodinproject.com/">The Odin Project - JavaScript curriculum</a>.
 
 <p align="center">
   <a href="https://banaanas.github.io/pomodoro-timer-TOP/">
-    <img src="src/images/README/screenshot-1.png" alt="Screenshot" width="455" height="300">
+    <img src="src/images/README/screenshot-1.png" alt="Screenshot" width="455" height="400">
   </a>
 </p>
 
@@ -72,7 +72,7 @@ Podomoro Timer achieved as part of <a href="https://www.theodinproject.com/cours
 
 <p align="center">
   <a href="https://banaanas.github.io/pomodoro-timer-TOP/">
-    <img src="src/images/README/screenshot-2.png" alt="Screenshot" width="240" height="500">
+    <img src="src/images/README/screenshot-2.png" alt="Screenshot" width="300" height="500">
   </a>
   <a href="https://banaanas.github.io/pomodoro-timer-TOP/">
     <img src="src/images/README/screenshot-3.png" alt="Screenshot" width="240" height="500">
