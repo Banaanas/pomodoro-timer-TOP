@@ -67,7 +67,7 @@ Pomodoro Timer achieved as part of <a href="https://www.theodinproject.com/">The
 #### Principal Features
 - Set Focus Time ;
 - Set Break Time ;
-- Pause Function - Stop Function - Reset Function
+- Pause Function - Stop Function - Reset Function ;
 - Responsive design.
 
 <p align="center">
