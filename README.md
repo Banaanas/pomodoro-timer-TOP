@@ -68,7 +68,7 @@ Pomodoro Timer achieved as part of <a href="https://www.theodinproject.com/">The
 - Set Focus Time ;
 - Set Break Time ;
 - Pause Function - Stop Function - Reset Function ;
-- Responsive design.
+- Responsive Design.
 
 <p align="center">
   <a href="https://banaanas.github.io/pomodoro-timer-TOP/">
