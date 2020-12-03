@@ -143,7 +143,7 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 ## Contact
 
-Cyrilo - [Personal Website]([personal-website-url]) - [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+Cyrilo - [Personal Website](https://cyrilo.dev) - [Mail](mailto:cyrilo.dev@gmail.com)
 
 Project Link: [https://github.com/Banaanas/pomodoro-timer-TOP](https://github.com/Banaanas/pomodoro-timer-TOP)
 
