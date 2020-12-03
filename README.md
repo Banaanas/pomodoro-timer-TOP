@@ -143,7 +143,7 @@ Distributed under the MIT License. See <a href="./LICENSE">`LICENSE`</a> for mor
 
 ## Contact
 
-Cyrilo - [Personal Website](https://cyrilo.dev) - cyrildeveloppeur@gmail.com
+Cyrilo - [Personal Website](https://cyrilo.dev) - cyrilo.dev@gmail.com
 
 Project Link: [https://github.com/Banaanas/pomodoro-timer-TOP](https://github.com/Banaanas/pomodoro-timer-TOP)
 
