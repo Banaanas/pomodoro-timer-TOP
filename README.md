@@ -31,10 +31,10 @@
     </a>
 </p>
 
-<h1 align="center">:alarm_clock: Pomodoro Timer :hourglass_flowing_sand:</h1>
+<h1 align="center">⏲️ Pomodoro Timer ⏳</h1>
 
 <p align="center">
-    Cute, convenient and smooth Pomororo Timer.<br/><br/>
+    Cute, convenient and smooth Pomodoro Timer.<br/><br/>
     <a href="https://pomodoro-timer.cyrilo.app/">:computer: Live Demo :eyes:</a><br/><br/>
 </p>
 
