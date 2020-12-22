@@ -20,16 +20,16 @@ import stopIconSrc from "./images/stop.svg";
 import addAllEventListeners from "./js/addAllEventListeners";
 
 // Set Images src
-const allIcons = document.querySelectorAll("img")
-allIcons[0].src = upIconSrc
-allIcons[1].src = downIconSrc
-allIcons[2].src = upIconSrc
-allIcons[3].src = downIconSrc
-allIcons[4].src = tomatoIconSrc
-allIcons[5].src = playIconSrc
-allIcons[6].src = resetIconSrc
-allIcons[7].src = pauseIconSrc
-allIcons[8].src = stopIconSrc
+const allIcons = document.querySelectorAll("img");
+allIcons[0].src = upIconSrc;
+allIcons[1].src = downIconSrc;
+allIcons[2].src = upIconSrc;
+allIcons[3].src = downIconSrc;
+allIcons[4].src = tomatoIconSrc;
+allIcons[5].src = playIconSrc;
+allIcons[6].src = resetIconSrc;
+allIcons[7].src = pauseIconSrc;
+allIcons[8].src = stopIconSrc;
 
 // Initialize the Pomodoro Timer page
 init();

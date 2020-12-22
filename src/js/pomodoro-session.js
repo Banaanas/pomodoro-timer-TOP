@@ -20,7 +20,8 @@ function pomodoroSession() {
     }
 
     // Display Seconds
-    elementsDOM.timerDisplayedSeconds.textContent = pomodoroObj.secondsToCountdown;
+    elementsDOM.timerDisplayedSeconds.textContent =
+      pomodoroObj.secondsToCountdown;
 
     // Convert number from 9 to 0 to double-digits beginning with 0
     if (pomodoroObj.secondsToCountdown < 10) {
@@ -43,10 +44,12 @@ function pomodoroSession() {
     // Change minute
     if (pomodoroObj.secondsToCountdown === 59) {
       pomodoroObj.minutesTotalBreak -= 1;
-      elementsDOM.timerDisplayedMinutes.textContent = pomodoroObj.minutesTotalBreak;
+      elementsDOM.timerDisplayedMinutes.textContent =
+        pomodoroObj.minutesTotalBreak;
     }
 
-    elementsDOM.timerDisplayedSeconds.textContent = pomodoroObj.secondsToCountdown;
+    elementsDOM.timerDisplayedSeconds.textContent =
+      pomodoroObj.secondsToCountdown;
 
     // Convert number from 9 to 0 to double-digits beginning with 0
     if (pomodoroObj.secondsToCountdown < 10) {
@@ -58,7 +61,8 @@ function pomodoroSession() {
     }
 
     if (pomodoroObj.secondsTotalBreak === 0) {
-      pomodoroObj.minutesTotalSession = pomodoroObj.minutesTotalSessionAfterStop;
+      pomodoroObj.minutesTotalSession =
+        pomodoroObj.minutesTotalSessionAfterStop;
       pomodoroObj.minutesTotalBreak = pomodoroObj.minutesTotalBreakAfterStop;
 
       pomodoroObj.secondsTotalSession = pomodoroObj.minutesTotalSession * 60;

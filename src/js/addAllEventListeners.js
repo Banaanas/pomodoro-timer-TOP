@@ -19,7 +19,8 @@ const addAllEventListeners = () => {
     // minutesTotalBreakAfterStop beginning values.
     if (pomodoroObj.justOneExecution === undefined) {
       pomodoroObj.justOneExecution = true;
-      pomodoroObj.minutesTotalSessionAfterStop = pomodoroObj.minutesTotalSession;
+      pomodoroObj.minutesTotalSessionAfterStop =
+        pomodoroObj.minutesTotalSession;
       pomodoroObj.minutesTotalBreakAfterStop = pomodoroObj.minutesTotalBreak;
     }
 
@@ -78,7 +79,8 @@ const addAllEventListeners = () => {
   // Increase Session minutes number displayed - Event Listener
   elementsDOM.sessionPlus.addEventListener("click", () => {
     pomodoroObj.minutesTotalSession += 1;
-    elementsDOM.sessionDisplayedNumber.textContent = pomodoroObj.minutesTotalSession;
+    elementsDOM.sessionDisplayedNumber.textContent =
+      pomodoroObj.minutesTotalSession;
 
     // Update secondsTotalSession
     pomodoroObj.secondsTotalSession = pomodoroObj.minutesTotalSession * 60;
@@ -92,7 +94,8 @@ const addAllEventListeners = () => {
   elementsDOM.sessionMinus.addEventListener("click", () => {
     if (pomodoroObj.minutesTotalSession <= 1) return;
     pomodoroObj.minutesTotalSession -= 1;
-    elementsDOM.sessionDisplayedNumber.textContent = pomodoroObj.minutesTotalSession;
+    elementsDOM.sessionDisplayedNumber.textContent =
+      pomodoroObj.minutesTotalSession;
 
     // Update secondsTotalSession
     pomodoroObj.secondsTotalSession = pomodoroObj.minutesTotalSession * 60;
